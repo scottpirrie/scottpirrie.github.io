@@ -1,11 +1,8 @@
-//Home.js
 import React from 'react'
-import Navbar from './../components/Navbar'
 
 const Recipes = () => {
     return (
         <div>
-            <Navbar/>
             <h1>Recipes</h1>
         </div>
     )
